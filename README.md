@@ -1,5 +1,5 @@
 ### `Graph Processing and Shortest Path Algorithms`
-                                                             ### `עיבוד גרפים ואלגוריתמים למציאת מסלול קצר`
+### `עיבוד גרפים ואלגוריתמים למציאת מסלול קצר`
 ### `Algorithms.hpp`
 
 1. **`isConnected(const Graph& g) -> bool`**:
